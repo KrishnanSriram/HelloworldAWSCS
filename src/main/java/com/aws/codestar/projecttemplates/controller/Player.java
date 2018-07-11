@@ -66,6 +66,4 @@ public class Player {
 		this.mobile = mobile;
 	}
 	
-	
-	
 }
